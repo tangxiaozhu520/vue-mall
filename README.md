@@ -4,19 +4,19 @@
 
 home:
 
-![1599637104048](C:\Users\tang\AppData\Roaming\Typora\typora-user-images\1599637104048.png)
+![1599637104048](https://github.com/tangxiaozhu520/vue-mall/blob/master/home.png)
 
 category:
 
-![1599637166606](C:\Users\tang\AppData\Roaming\Typora\typora-user-images\1599637166606.png)
+![1599637166606](https://github.com/tangxiaozhu520/vue-mall/blob/master/category.png)
 
 detail:
 
-![1599637234156](C:\Users\tang\AppData\Roaming\Typora\typora-user-images\1599637234156.png)
+![1599637234156](https://github.com/tangxiaozhu520/vue-mall/blob/master/detail.png)
 
 cart：
 
-![1599637309871](C:\Users\tang\AppData\Roaming\Typora\typora-user-images\1599637309871.png)
+![1599637309871](https://github.com/tangxiaozhu520/vue-mall/blob/master/cart.png)
 
 
 
